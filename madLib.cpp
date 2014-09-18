@@ -65,7 +65,6 @@ int main(int argc, char *argv[]){
                         cout << words[i];
                 } //end else
         }// end for
-        cout << " Hope you enjoyed it!" << endl;
 
 }// end main
 
